@@ -1,0 +1,5 @@
+Cada uno tiene unos "input" (archivo con los input) diferentes, asi que quien
+tenga la cuenta que se va a usar para el concurso de la asignatura que borre esto 
+y copie aqui el input de su archivo unico que le sale.
+Que no le cambie el nombre a este .txt, si lo hace, que cambie los ifstream() de
+los dos .cpp.
