@@ -4,7 +4,7 @@ Repositorio para subir los códigos y las explicaciones de los problemas del Adv
 
 ---
 
-## Miembros del equipo
+## Equipo ```MRGV``` :
   - Andreu Martínez
   - Dani Dunca
   - Ali Abdelhamid
@@ -23,7 +23,8 @@ Dia 5/Ali : Uso de LinkedList (Ambas partes, corrige el que quieras).
 Dia 7, parte 2: Uso de Programacion dinamica para evitar recalcular subproblemas superpuestos.
 
 Dia 8: (Ambas partes, corrige el que quieras) Uso de DyV para implementar algoritmos de ordenacion como QuickSort, uso de estructurad de datos como Priority_Queue y uso de DSU (Disjoint Set Union) para crear los conjuntos (conexiones) y saber a que conjunto pertenece cada "conexion".
-  
+
+> Dentro de la carpeta de los días que entregamos, encontrarás un breve README explicando la forma en la que se ha resuelto el problema y justificando el uso de la estructura
 ---
 
 ## Estructuras de datos y Algoritmos usados hasta el momento
@@ -38,110 +39,3 @@ Dia 8: (Ambas partes, corrige el que quieras) Uso de DyV para implementar algori
   - `Min-Heap`
   - `Grafos`
 ---
-
-## Estructura del proyecto
-
-```text
-AOC25/
-├─ Dia1/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia2/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia3/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia4/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ Dia4Completo.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia5/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia6/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia7/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  ├─ input.txt
-│  └─ Ali/
-│     ├─ README.md
-│     ├─ part1.cpp
-│     ├─ part2.cpp
-│     └─ input.txt
-├─ Dia8/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  └─ input.txt
-├─ Dia9/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  └─ input.txt
-├─ Dia10/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  └─ input.txt
-├─ Dia11/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  └─ input.txt
-├─ Dia12/
-│  ├─ README.md
-│  ├─ part1.cpp
-│  ├─ part2.cpp
-│  └─ input.txt
-│
-└─ README.md
-```
-
-
-
